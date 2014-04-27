@@ -1,5 +1,5 @@
 
-//comentario para tutorial branching
+//comentario para tutorial branching, HOT FIX
 function MyApp() {
     "use strict";
     var version = "v1.0";
