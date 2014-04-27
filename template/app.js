@@ -1,5 +1,5 @@
 
-//comentario para tutorial branching
+//comentario para conflictos branching
 function MyApp() {
     "use strict";
     var version = "v1.0";
